@@ -1,3 +1,10 @@
+
+//Código mais compacto, mais limpo.
+const dividir = (a, b) => a / b;
+console.log(dividir(8, 2)); 
+
+//
+
 function subtracao (numero){
     return numero - 10;
 }
@@ -49,4 +56,13 @@ function soma ( a, b ) {
 }
 let resposta = soma( 5, 6);
 console.log(resposta);
+
+function multiplicar (a, b) {
+    return a * b;
+}
+
+let responde = multiplicar(5, 6);
+console.log(responde);
+
+
     
