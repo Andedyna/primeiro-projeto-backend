@@ -1,0 +1,1 @@
+//Crie uma função pura que multiplique dois números.
